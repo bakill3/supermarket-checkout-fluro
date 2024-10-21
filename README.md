@@ -50,4 +50,8 @@ vendor/bin/phpunit
 3. Meal Deals: Buy different items together for a special price.
     - Example: Buy D and E together for £3.00.
 
+## Output of Index.php
+![Supermarket Checkout Scenarios](https://github.com/bakill3/supermarket-checkout-fluro/blob/master/output.png)
+
+
 

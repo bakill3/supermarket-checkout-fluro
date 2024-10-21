@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\CheckoutTest::testSingleItem":0.004,"Tests\\CheckoutTest::testMultipricedPromotion":0,"Tests\\CheckoutTest::testBuyNGetOneFreePromotion":0,"Tests\\CheckoutTest::testMealDealPromotion":0,"Tests\\CheckoutTest::testBugWithItemB":0}}

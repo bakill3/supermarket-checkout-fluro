@@ -65,8 +65,6 @@ foreach ($scenarios as $scenario) {
     $result = runScenario($scenario['number'], $scenario['items'], $pricingRules, $products);
     $tableData[] = $result;
 }
-
-// Generate HTML output
 ?>
 <!DOCTYPE html>
 <html>

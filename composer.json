@@ -1,4 +1,13 @@
 {
+    "name": "bakill3/supermarket-checkout-fluro",
+    "description": "A PHP implementation of a supermarket checkout system with promotions.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Brandão",
+            "email": "deostulti2@gmail.com"
+        }
+    ],
     "require": {},
     "autoload": {
         "psr-4": {

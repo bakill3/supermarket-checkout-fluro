@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => '__root__',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'name' => 'bakill3/supermarket-checkout-fluro',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'a274443addbfce2b0e90a17c521b97cb5d729357',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+        'bakill3/supermarket-checkout-fluro' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'a274443addbfce2b0e90a17c521b97cb5d729357',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

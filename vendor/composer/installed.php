@@ -3,7 +3,7 @@
         'name' => 'bakill3/supermarket-checkout-fluro',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'c7c1bb6d789e89384b4c73463fa5d8524f35b91b',
+        'reference' => 'd218790bc2f3f3c1cda80a1d88fbf80bcde7a522',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'bakill3/supermarket-checkout-fluro' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'c7c1bb6d789e89384b4c73463fa5d8524f35b91b',
+            'reference' => 'd218790bc2f3f3c1cda80a1d88fbf80bcde7a522',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

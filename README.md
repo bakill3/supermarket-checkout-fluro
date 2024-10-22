@@ -19,7 +19,7 @@ This is a PHP implementation of a supermarket checkout system that calculates th
 
 1. Clone the repository
 ```
-git clone https://github.com/bakill3/supermarket-checkout.git
+git clone https://github.com/bakill3/supermarket-checkout-fluro.git
 cd supermarket-checkout
 ```
 2. Install Dependencies
